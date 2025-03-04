@@ -1,2 +1,2 @@
 [![GitHub stats](https://github-readme-stats-adecametres-projects.vercel.app/api?username=ADecametre&include_all_commits=true&show_icons=true&theme=dark&custom_title=GitHub+Stats&hide_rank=true&hide=stars,contribs)](#)
-[![Top Langs](https://github-readme-stats-adecametres-projects.vercel.app/api/top-langs/?username=adecametre&langs_count=9&theme=dark&layout=compact&hide_title=true&card_width=330&size_weight=0.1&count_weight=0.9)](#)
+[![Top Langs](https://github-readme-stats-adecametres-projects.vercel.app/api/top-langs/?username=adecametre&langs_count=9&theme=dark&layout=compact&hide_title=true&card_width=330&size_weight=0.15&count_weight=0.85&hide=starlark)](#)
